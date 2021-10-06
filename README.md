@@ -1,8 +1,5 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23921AF7&size=25&center=true&width=600&height=200&lines=Hello%2C+I'm+Edian!;Thanks+for+checking+out+my+profile.;Msg+me+with+comments+or+questions!)](https://git.io/typing-svg)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edianibarrola&show_icons=true&theme=cobalt)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edianibarrola&show_icons=true&theme=dracula)
 
 
 <h1 align="center">Hi 👋, I'm Edian Ibarrola</h1>
@@ -27,6 +24,8 @@
 - 📫 Message me **edianibarrola@gmail.com**
 
 - ⚡ Fun fact **I love figuring new things out.**
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edianibarrola&show_icons=true&theme=cobalt)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
