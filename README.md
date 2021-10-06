@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23921AF7&size=25&center=true&width=600&height=200&lines=Hello%2C+I'm+Edian!;Thanks+for+checking+out+my+profile.;Msg+me+with+comments+or+questions!)](https://git.io/typing-svg)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=aemmadi&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=edianibarrola&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edianibarrola&hide=TeX&layout=compact)
 
 
 <!--
