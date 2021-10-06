@@ -1,8 +1,5 @@
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23921AF7&size=25&center=true&width=600&height=200&lines=Hello%2C+I'm+Edian!;Thanks+for+checking+out+my+profile.;Msg+me+with+comments+or+questions!)](https://git.io/typing-svg)
-
-
-<h1 align="center">Hi 👋, I'm Edian Ibarrola</h1>
+<h1 align="center">Edian Ibarrola</h1>
 <h3 align="center">I love learning and sharing what I know.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edianibarrola&label=Profile%20views&color=0e75b6&style=flat" alt="edianibarrola" /> </p>
