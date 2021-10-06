@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **NFT / Blockchain**
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **Solidity and continuing to work with JavaScript, React and Python**
 
 - 🤝 I’m looking to make friends with other developers. **Hit me up!**
 
