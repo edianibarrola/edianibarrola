@@ -21,6 +21,8 @@
 - 📫 Message me **edianibarrola@gmail.com**
 
 - ⚡ Fun fact **I love figuring new things out.**
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edianibarrola&show_icons=true&theme=cobalt)
 
 
