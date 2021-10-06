@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking to make friends with other developers. **Hit me up!**
 
-- 👨‍💻 Check out my projects [www.edianibarrola.com](www.edianibarrola.com)
+- 👨‍💻 Check out my projects [https://www.edianibarrola.com](https://www.edianibarrola.com)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/edianibarrola/](https://www.linkedin.com/in/edianibarrola/)
 
