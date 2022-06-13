@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/ediansmells" target="blank"><img src="https://img.shields.io/twitter/follow/ediansmells?logo=twitter&style=for-the-badge" alt="ediansmells" /></a> </p>
 
-- 🔭 I’m currently working on **NFT / Blockchain**
+- 🔭 I’m currently working on ** Microsoft Azure Data Engineer Certification **
 
-- 🌱 I’m currently learning **Solidity and continuing to work with JavaScript, React and Python**
+- 🌱 I’m currently learning **Azure and continuing to work with JavaScript, React and Python**
 
 - 🤝 I’m looking to make friends with other developers. **Hit me up!**
 
