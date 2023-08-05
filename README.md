@@ -6,17 +6,14 @@
 
 <p align="left"> <a href="https://twitter.com/ediansmells" target="blank"><img src="https://img.shields.io/twitter/follow/ediansmells?logo=twitter&style=for-the-badge" alt="ediansmells" /></a> </p>
 
-- 🔭 I’m currently working on ** Microsoft Azure Data Engineer Certification **
-
-- 🌱 I’m currently learning **Azure and continuing to work with JavaScript, React and Python**
+- 🔭 ** Microsoft Azure Data Engineer **
 
 - 🤝 I’m looking to make friends with other developers. **Hit me up!**
 
 - 👨‍💻 Check out my projects [https://www.edianibarrola.com](https://www.edianibarrola.com)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/edianibarrola/](https://www.linkedin.com/in/edianibarrola/)
 
-- 💬 Ask me about **React, HTML, CSS, MySQL, Python, Music, Tortoises, Pokemon**
+- 💬 Ask me about ** Azure, Synapse, React, HTML, CSS, MySQL, Python, Music, Tortoises, Pokemon**
 
 - 📫 Message me **edianibarrola@gmail.com**
 
